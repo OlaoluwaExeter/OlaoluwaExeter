@@ -1,26 +1,8 @@
-# About me 👋
+
+### 🧠 About Me  
 
 <!-- **OlaoluwaExeter/OlaoluwaExeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 
-👋 Hi there! I’m Olaoluwa Adebayo
-
-
-- 🔭 I’m currently working on Computational Skills and Python for Health and Life Sciences
-- 🌱 I’m currently learning Health Data Analytics
-- 👯 I’m looking to collaborate on health informatics projects, data visualisation dashboards (Power BI, Tableau), and research using healthcare datasets (EHRs, NHS, WHO, or public health data).
-- 🤔 I’m looking for help with advanced statistical modelling, predictive analytics in clinical data, and applying AI/ML in healthcare settings.
-- 💬 Ask me about data cleaning, exploratory data analysis (EDA), SQL, Python for healthcare data, and data ethics in health research.
-- 📫 How to reach me: Olaoluwadebayo@yahoo.co.uk, GitHub: OlaoluwaExeter
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love turning complex health data into visual stories that can help clinicians make better decisions — and I’m a coffee-powered coder ☕📊
-
-# 👋 Hi there! I'm Olaoluwa  
-
-🎓 I’m a **Health Data Analytics student** passionate about transforming healthcare data into meaningful insights that can improve decision-making and patient outcomes.  
-
----
-
-### 🧠 About Me  
 - 💻 Currently developing my skills in **Python, R, Power BI, SQL, and Tableau**.  
 - 🧬 Interested in **health informatics**, **data visualisation**, and **predictive analytics**.  
 - 🌍 Exploring how data-driven approaches can improve **public health outcomes**.  
