@@ -4,7 +4,6 @@
 
 👋 Hi there! I’m Olaoluwa Adebayo
 
-I’m a Health Data Analytics student passionate about improving healthcare outcomes through data-driven insights.
 
 - 🔭 I’m currently working on Computational Skills and Python for Health and Life Sciences
 - 🌱 I’m currently learning Health Data Analytics
