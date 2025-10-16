@@ -51,5 +51,5 @@ He / Him
 I love turning complex health data into visual stories that help make healthcare smarter — and yes, I probably have a dashboard for everything! 📊😄  
 
 ---
-
+## let's Go
 > “Data has the power to heal — when we learn to listen to what it’s telling us.” 💡
